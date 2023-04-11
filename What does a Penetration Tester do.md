@@ -64,8 +64,8 @@ I compiled a list of my favorite platforms for continuous education.
 
 ## Continuous Education / Resources
 OWASP top 10 [https://owasp.org/Top10/](https://owasp.org/Top10/)  
-	Their Top 10 most critical CyberSecurity categories
-	Most recent revision was 2021 where Broken Access Control jumped 4 spots to #1
+- Their Top 10 most critical CyberSecurity categories
+- Most recent revision was 2021 where Broken Access Control jumped 4 spots to #1
 OverTheWire [https://overthewire.org/wargames/bandit/](https://overthewire.org/wargames/bandit/)
 	Where I started - took me about a year to complete Bandit
 	Great beginner dive into linux and basic commands
